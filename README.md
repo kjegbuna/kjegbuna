@@ -32,5 +32,5 @@ A repeatable content system that turns each ERG session topic into a full packag
 JavaScript · Supabase / Postgres · Notion API · Google APIs (Calendar/OAuth) · Netlify · Git/GitHub · Claude / Claude Code
 
 ## Get in touch
-- LinkedIn: [your LinkedIn URL]
-- Email: [your personal email]
+- LinkedIn: linkedin.com/kjegbuna
+- Email: joshegbuna@gmail.com
