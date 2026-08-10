@@ -11,7 +11,7 @@ I'm heading toward a career in IT, and I'm keeping my options open across the fi
 **EY — Digital Risk Intern (Summer 2025)**
 Sat on an engagement team supporting clients on third-party (vendor) risk. My main piece of work was helping build and evaluate a library of 600+ vendor risk assessment questions covering how a vendor handles security, data privacy, compliance, and operational resilience. The goal was to give clients a clearer picture of their third-party risk exposure and practical ways to control it.
 
-**Chezie — Intern (Summer 2026)**
+**Chezie — AI Operations Intern (Summer 2026)**
 Built internal tools and automations that took manual, repetitive work off people's plates and turned scattered company data into something usable. Owned the work end to end, from figuring out the problem to shipping to production.
 
 ## Projects from my Chezie internship
