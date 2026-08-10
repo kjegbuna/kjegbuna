@@ -16,11 +16,11 @@ Built internal tools and automations that took manual, repetitive work off peopl
 
 ## Projects from my Chezie internship
 
-**[Customer Health Hub](https://github.com/[username]/customer-health-hub)**
+**[Customer Health Hub](https://github.com/kjegbuna/Project-Customer-Health-Hub-)**
 An internal web app that scores every customer's health 0–10 by unifying finance, support, product-usage, and relationship signals into one view, so the team can catch churn risk before renewals.
 `JavaScript` · `Supabase (Postgres + Auth + RLS)` · `Netlify`
 
-**[Customer Meeting Calendar Automation](https://github.com/[username]/meeting-calendar-automation)**
+**[Automated Customer Meeting Calendar](https://github.com/kjegbuna/Project-Automated-Meeting-Calendar)**
 An automated pipeline that detects customer meetings across the team's Google Calendars, logs them to Notion with attendees and metadata, and attaches the recording, transcript, and AI summary, replacing a manual, person-dependent process.
 `Google Calendar API` · `Notion API` · `Granola / Fathom` · `OAuth`
 
