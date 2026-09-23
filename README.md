@@ -2,7 +2,7 @@
      (e.g. github.com/kene-x/kene-x). GitHub renders it on your profile homepage.
      Replace the [bracketed] bits and the project links once the repos exist. -->
 
-# Hi, I'm Kene
+# Hi, I'm KJ
 
 I'm heading toward a career in IT, and I'm keeping my options open across the field, whether that's cybersecurity, AI, networking, or something in between. My goal after I graduate is to land an IT role where I can keep learning and building, and I'd rather stay curious across the space than box myself into a single specialty this early.
 
